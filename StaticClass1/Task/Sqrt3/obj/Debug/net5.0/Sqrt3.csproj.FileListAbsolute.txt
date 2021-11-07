@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\bin\Debug\net5.0\Sqrt3.deps.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\bin\Debug\net5.0\Sqrt3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\bin\Debug\net5.0\ref\Sqrt3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\bin\Debug\net5.0\Sqrt3.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.AssemblyInfo.cs
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\ref\Sqrt3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Sqrt3\obj\Debug\net5.0\Sqrt3.pdb

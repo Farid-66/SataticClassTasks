@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Task</id>
+    <version>1.0.0</version>
+    <authors>Task</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Task\bin\Debug\net5.0\Task.runtimeconfig.json" target="lib\net5.0\Task.runtimeconfig.json" />
+    <file src="C:\Users\HP\Desktop\HDD\CodeAcademy\StaticClass\StaticClass1\Task\Task\bin\Debug\net5.0\Task.dll" target="lib\net5.0\Task.dll" />
+  </files>
+</package>
